@@ -35,7 +35,6 @@ a:hover {
 
 .p-r {
   position: relative;
-  padding-top: 400px;
 }
 
 .color-a {
@@ -663,6 +662,7 @@ a:hover {
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
+  padding-top: 400px;
   height: 100vh;
   position: relative;
   color: #fff;
