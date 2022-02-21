@@ -690,6 +690,7 @@ a:hover {
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
+  padding-top:180px;
   height: 100vh;
   position: relative;
   color: #fff;
